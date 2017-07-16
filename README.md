@@ -1,7 +1,5 @@
 Docker image for NodeJS microservices
 
-Docker image for NodeJS microservices
-
 ## Usage
 - DockerFile
 
